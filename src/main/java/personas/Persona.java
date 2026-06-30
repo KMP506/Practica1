@@ -51,8 +51,7 @@ public class Persona {
         return "Identificacion: "+id+
                 "\nNombre completo: "+nombreCompleto+
                 "\nFecha nacimiento: "+fechaNacimiento+
-                "\nTelefono: "+telefono+
-                "\nEdad: "+calcularEdad();
+                "\nTelefono: "+telefono+ "\nEdad: "+calcularEdad();
     }
     
 }
