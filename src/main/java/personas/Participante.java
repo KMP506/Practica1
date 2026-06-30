@@ -26,8 +26,7 @@ public class Participante extends Persona {
                 "\nNombre completo: "+nombreCompleto+
                 "\nFecha nacimiento: "+fechaNacimiento+
                 "\nTelefono: "+telefono+
-                "\nEdad: "+calcularEdad()+
-                "\nDisciplina: "+disciplinaInscrita;
+                "\nEdad: "+calcularEdad()+"\nDisciplina: "+disciplinaInscrita;
     }
     
 }
