@@ -51,3 +51,4 @@ public class Categoria {
                "\nParticipantes registrados: " + cantidadParticipantes;
     }
 }
+////d
